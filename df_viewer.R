@@ -1,0 +1,6 @@
+n0_mf <- read.csv("~/biohack/results/N0_freqs_MF.csv")
+n15_mf <- read.csv("~/biohack/results/N15_freqs_MF.csv")
+n0_bp <- read.csv("~/biohack/results/N0_freqs_BP.csv")
+n15_bp <- read.csv("~/biohack/results/N15_freqs_BP.csv")
+n0_cc <- read.csv("~/biohack/results/N0_freqs_CC.csv")
+n15_cc <- read.csv("~/biohack/results/N15_freqs_CC.csv")
